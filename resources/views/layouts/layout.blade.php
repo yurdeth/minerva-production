@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="{{ asset('CSS/home.css')}}">
     <link rel="stylesheet" href="{{ asset('CSS/floating-span.css')}}">
     <link rel="icon" href="{{ asset('IMG/logoUES.png') }}">
-    <title>Minerva RV Web</title>
+    <title> Minerva RV Web </title>
     @vite(['resources/js/app.js'])
 </head>
 <body>
