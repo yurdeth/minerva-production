@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Minerva VR Web</title>
     <!--Links empleados-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/choices.js/1.1.6/styles/css/choices.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -19,6 +18,7 @@
     <link rel="stylesheet" href="{{ asset('CSS/home.css')}}">
     <link rel="stylesheet" href="{{ asset('CSS/floating-span.css')}}">
     <link rel="icon" href="{{ asset('IMG/logoUES.png') }}">
+    <title>Minerva RV Web</title>
     @vite(['resources/js/app.js'])
 </head>
 <body>

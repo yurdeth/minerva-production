@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-    <title>Dashboard</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
           integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
           crossorigin="anonymous" referrerpolicy="no-referrer"/>
     <link rel="stylesheet" href="{{ asset('CSS/administracion/dashboard.css')}}">
     <link rel="stylesheet" href="{{ asset('CSS/administracion/responsiveDashboard.css')}}">
     <link rel="icon" href="{{ asset('IMG/logoUES.png') }}">
+    <title>Dashboard</title>
 </head>
 <body>
 <!-- New control panel design -->
@@ -22,7 +22,7 @@
             <li>
                 <div class="logo_container">
                     <img class="logo" src="{{ asset('IMG/Logo.png') }}" alt="Logo">
-                    <span class="logo_title"> Minerva VR Web</span>
+                    <span class="logo_title"> Minerva RV Web</span>
                 </div>
             </li>
             <li>
