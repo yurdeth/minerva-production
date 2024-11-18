@@ -11,6 +11,7 @@
           crossorigin="anonymous" referrerpolicy="no-referrer"/>
     <link rel="stylesheet" href="{{ asset('CSS/administracion/dashboard.css')}}">
     <link rel="stylesheet" href="{{ asset('CSS/administracion/responsiveDashboard.css')}}">
+    <link rel="icon" href="{{ asset('IMG/logoUES.png') }}">
 </head>
 <body>
 <!-- New control panel design -->
