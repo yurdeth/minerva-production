@@ -1,6 +1,7 @@
 import {showErrorAlert, showSuccessAlert, showWarningAlert} from './utils/alert.js';
 
-const remoteApiURL = process.env.REMOTE_API_URL;
+// const remoteApiURL = process.env.REMOTE_API_URL;
+const remoteApiURL = "https://api-rest.tests.engineer/api"
 
 const headers = {
     'Content-Type': 'application/json',

@@ -1,8 +1,10 @@
 import {showErrorAlert, showSuccessAlert} from './utils/alert.js';
 import {apiRequest} from "./utils/api.js";
 
-const remoteApiURL = process.env.REMOTE_API_URL;
-const adminEmail = process.env.ADMIN_EMAIL;
+// const remoteApiURL = process.env.REMOTE_API_URL;
+const remoteApiURL = "https://api-rest.tests.engineer/api";
+// const adminEmail = process.env.ADMIN_EMAIL;
+const adminEmail = "admin@admin.com";
 
 const headers = {
     'Content-Type': 'application/json',

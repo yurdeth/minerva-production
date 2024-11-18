@@ -1,8 +1,10 @@
 import {apiRequest} from './utils/api.js'
 import {showErrorAlert, showSuccessAlert} from './utils/alert.js'
 
-const remoteApiURL = process.env.REMOTE_API_URL;
-const PATH = process.env.KEY_PATH;
+// const remoteApiURL = process.env.REMOTE_API_URL;
+const remoteApiURL = "https://api-rest.tests.engineer/api";
+// const PATH = process.env.KEY_PATH;
+const PATH = "/get-key";
 
 const headers = {
     'Content-Type': 'application/json',
