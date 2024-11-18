@@ -1,0 +1,128 @@
+{
+    "careers": [
+        {
+            "career_name": "Ingeniería Eléctrica",
+            "department_id": 1
+        },
+        {
+            "career_name": "Ingeniería Mecánica",
+            "department_id": 1
+        },
+        {
+            "career_name": "Arquitectura",
+            "department_id": 1
+        },
+        {
+            "career_name": "Ingeniería Industrial",
+            "department_id": 1
+        },
+
+        {
+            "career_name": "Laboratorio Clínico",
+            "department_id": 2
+        },
+        {
+            "career_name": "Doctorado en Medicina",
+            "department_id": 2
+        },
+        {
+            "career_name": "Anestesiología e Inhaloterapia",
+            "department_id": 2
+        },
+        {
+            "career_name": "Fisioterapia y terapia ocupacional",
+            "department_id": 2
+        },
+
+        {
+            "career_name": "Licenciatura en Inglés",
+            "department_id": 3
+        },
+        {
+            "career_name": "Licenciatura en Psicología",
+            "department_id": 3
+        },
+        {
+            "career_name": "Licenciatura en Educación",
+            "department_id": 3
+        },
+        {
+            "career_name": "Licenciatura en Sociología",
+            "department_id": 3
+        },
+        {
+            "career_name": "Licenciatura en Letras",
+            "department_id": 3
+        },
+        {
+            "career_name": "Licenciatura en Filosofía",
+            "department_id": 3
+        },
+
+        {
+            "career_name": "Licenciatura en Inglés",
+            "department_id": 3
+        },
+
+        {
+            "career_name": "Ingeniería Agronómica",
+            "department_id": 4
+        },
+
+        {
+            "career_name": "Administración",
+            "department_id": 5
+        },
+        {
+            "career_name": "Contaduría Pública",
+            "department_id": 5
+        },
+        {
+            "career_name": "Ciencias Económicas",
+            "department_id": 5
+        },
+
+        {
+            "career_name": "Licenciatura en Ciencias Jurídicas",
+            "department_id": 6
+        },
+
+        {
+            "career_name": "Licenciatura en Biología",
+            "department_id": 7
+        },
+        {
+            "career_name": "Licenciatura en Matemática",
+            "department_id": 7
+        },
+        {
+            "career_name": "Licenciatura en Estadística",
+            "department_id": 7
+        },
+        {
+            "career_name": "Licenciatura en Física",
+            "department_id": 7
+        },
+        {
+            "career_name": "Licenciatura en Biología",
+            "department_id": 7
+        },
+        {
+            "career_name": "Profesorado en Ciencias Naturales",
+            "department_id": 7
+        },
+        {
+            "career_name": "Profesorado en Matemática",
+            "department_id": 7
+        },
+        {
+            "career_name": "Licenciatura en Química",
+            "department_id": 7
+        },
+
+        {
+            "career_name": "Licenciatura en Química y Farmacia",
+            "department_id": 8
+        }
+    ]
+}

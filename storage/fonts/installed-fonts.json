@@ -1,0 +1,39 @@
+{
+    "raleway": {
+        "100_italic": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_100_italic_acf788572bd93086bf3e76b3e99ed954",
+        "200_italic": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_200_italic_23b2e53665d4e5ce7965ca3be8b7ec2b",
+        "300_italic": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_300_italic_73f505235989f4114951fa349a187e0a",
+        "italic": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_italic_2414a1a7d4a364faa9433ee38da3c4c5",
+        "500_italic": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_500_italic_60d39115aac90c1e2207da4494eb8f14",
+        "600_italic": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_600_italic_4e039b1580210b98384586aee23d3531",
+        "bold_italic": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_bold_italic_e9a4c2626b481054e73f27c878382874",
+        "800_italic": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_800_italic_f1da352c4fed52d560257863bd8b9d07",
+        "900_italic": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_900_italic_eafaa496663ac4f11c47da5964f8a184",
+        "100": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_100_ff35ff959880af8e28d0e1fc13967e09",
+        "200": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_200_6396b45c2d8098a3df8e60f866bece40",
+        "300": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_300_5e0f4fe09b44e45595e1bc1c688f3418",
+        "normal": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_normal_66266c4632471de398a14bdec8413bb7",
+        "500": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_500_9d0390a84e9d510c63ef5ed2c1e4f1e1",
+        "600": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_600_c293a0ca7a724a19cbad472069c4c05b",
+        "bold": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_bold_5b9f5983585810045c0c5c7240f79ea2",
+        "800": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/raleway_800_7be193f1ac29456a3460f5dfcd3d6371",
+        "900": "raleway_900_4d0214ac5ccd4f17dd55fa6906df7f77"
+    },
+    "font awesome 6 brands": {
+        "normal": "font_awesome_6_brands_normal_8706f0433e2d5d5fd3d0a59548231bfa"
+    },
+    "font awesome 6 free": {
+        "normal": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/font_awesome_6_free_normal_593bdbbbdc81d59296a7381dd69e8752",
+        "900": "font_awesome_6_free_900_2d57701df92cf935d77b4ef2eaf7d91c"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_8706f0433e2d5d5fd3d0a59548231bfa"
+    },
+    "font awesome 5 free": {
+        "900": "C:\\laragon\\www\\minerva-vr-lab-appointment-controll\\storage\\fonts\/font_awesome_5_free_900_2d57701df92cf935d77b4ef2eaf7d91c",
+        "normal": "font_awesome_5_free_normal_593bdbbbdc81d59296a7381dd69e8752"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_c7ef3dab83a34324c2c60c879ae46caf"
+    }
+}

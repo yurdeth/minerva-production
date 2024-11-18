@@ -1,0 +1,25 @@
+{
+    "departments": [
+        {
+            "department_name": "Medicina"
+        },
+        {
+            "department_name": "Humanidades"
+        },
+        {
+            "department_name": "Agronomía"
+        },
+        {
+            "department_name": "Economía"
+        },
+        {
+            "department_name": "Jurisprudencia"
+        },
+        {
+            "department_name": "Ciencias Naturales y Matemática"
+        },
+        {
+            "department_name": "Química y Farmacia"
+        }
+    ]
+}

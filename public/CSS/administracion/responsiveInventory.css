@@ -1,0 +1,86 @@
+.pagination-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 10px; /* Aumenté el padding para hacer más evidente */
+    max-width: 300px; /* Ajusta el ancho máximo según necesites */
+    margin: 8px auto; /* Esto centrará el contenedor */
+}
+/* .pagination-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 5px;
+    width: max-content;
+    margin-top: 8px;
+} */
+
+.btn-arrow {
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    color: #ff4a4a;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.btn-arrow:disabled {
+    color: #ccc;
+    cursor: not-allowed;
+}
+
+.page-number {
+    font-size: 18px;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+.custom-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Alinea verticalmente ambos elementos */
+}
+
+/* Responsive de inventory*/
+@media (max-width: 1250px){
+
+    .custom-flex{
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items:flex-start;
+        margin-top: 10px;
+    }
+
+    .custom-flex > .registra{
+        margin-top: 6px;
+    }
+
+
+    .table-responsive {
+        overflow-x: auto;
+    }
+}
+
+@media (max-width: 1090px){
+
+    .input-group{
+        display: flex;
+        gap: 1px;
+    }
+
+    #searchInput{
+        width: 260px;
+    }
+}
+
+@media (max-width: 915px){
+    #searchInput{
+        width: 160px;
+    }
+}

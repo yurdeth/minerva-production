@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    font-family: "Raleway", sans-serif;
+}
+
+/*Parte del home del sistema*/
+
+
+.card > .card-body{
+    background-color: #ffffff;
+    backdrop-filter: blur(10px);
+    border: 1px solid gray;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(139, 196, 227, 0.419), 0 6px 20px rgba(134, 190, 220, 0.419);
+}
+
+.video {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    border-radius: 6px;
+    border: 2px solid #123A6B;
+    float: left;
+    margin-right: 40px;
+
+
+}
+
+.informacion {
+    margin-top: 30px;
+    text-align: justify;
+}
+
+/*Parte del modo minerva de este style*/
+
+.fondos .video {
+    border: 2px solid #660D04;
+}
+
+@media (min-width: 768px) {
+
+    .card-body {
+        flex-direction: row;
+    }
+
+    .video {
+        width: 50%;
+        margin-right: 40px
+    }
+
+    .informacion {
+        margin-top: 6;
+    }
+}
+
+@media (min-width: 375px) {
+
+    .video {
+
+        margin-bottom: 20px
+    }
+}
+

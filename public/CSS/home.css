@@ -1,0 +1,247 @@
+/* General */
+* {
+    box-sizing: border-box;
+    font-family: "Raleway", sans-serif;
+}
+body {
+    background-color: #E0EEFF !important;
+}
+
+/* Toggle Switch */
+.toggle {
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 120px;
+    height: 60px;
+    border-radius: 50px;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.toggle i {
+    width: 50%;
+    line-height: 60px;
+    text-align: center;
+    font-size: 30px;
+    z-index: 1;
+}
+
+i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.toggle .ball {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    margin: 7.5px;
+    border-radius: 50%;
+    transition: transform 0.3s;
+}
+
+.toggle{
+    background: linear-gradient(145deg, #0d2f58, #2861a7);
+    box-shadow: 3px 3px 4px #e6e6e6,
+    -3px, -3px 4px #ffffff;
+    border: 2px solid #7c8a9a;
+}
+
+.fondos .toggle{
+    background: linear-gradient(145deg, #660D04, #af2e1f);
+    box-shadow: 3px 3px 4px #e6e6e6,
+    -3px, -3px 4px #ffffff;
+    border: 2px solid #7c8a9a;
+}
+
+.toggle .minerva{
+    color: #fafafa;
+}
+
+ .toggle .rv{
+    color: #123A6B;
+}
+
+.toggle .ball{
+    background: #660D04;
+}
+
+.fondos .toggle .ball{
+    background: #123A6B;
+    transition: background-color 0.3s, transform 0.3s;
+    transform: translateX(55px);
+}
+
+/* Navbar */
+.navbar {
+    background-color: #123A6B;
+}
+.logo_title {
+    margin-left: 10px;
+}
+.logo {
+    width: 4rem;
+    height: 5rem;
+    margin-left: 10px;
+}
+.navbar-brand {
+    font-size: 20px;
+    font-weight: 500;
+}
+.nav-item {
+    padding: 8px;
+}
+.nav-item > button {
+    background-color: transparent;
+    border: none;
+    border-radius: 6px;
+}
+button:hover {
+    cursor: pointer;
+    background-color: #4874AB;
+    border: 1px solid white;
+}
+.navbar-nav > button {
+    background-color: transparent;
+    border: none;
+    border-radius: 6px;
+}
+.navbar-nav > button:hover {
+    cursor: pointer;
+    background-color: #4874AB;
+    border: 1px solid white;
+}
+
+/* Botón de cambio de modo */
+.btn {
+    width: 60px;
+    padding: 0;
+}
+.lentes {
+    width: 36px;
+    object-fit: cover;
+}
+.nav-item > .btn:hover {
+    cursor: pointer;
+    background-color: #4874AB;
+    border: 1px solid white;
+}
+.btn:hover .lentes {
+    filter: brightness(0.8);
+}
+
+/* Footer */
+footer {
+    background-color: #123A6B;
+}
+.mb-4 {
+    color: white;
+}
+hr.mb-4 {
+    height: 3px;
+    background-color: white;
+    border: none;
+}
+.opcionesFo > li {
+    color: white;
+    list-style: none;
+}
+
+.opcionesFo > li > a{
+    text-decoration: none;
+    color: white;
+}
+.fa-brands {
+    color: white;
+}
+
+/* Contenido */
+section {
+    margin-top: 50px;
+}
+.mensaje {
+    margin-top: 40px;
+    text-align: center;
+}
+.mensaje > h1 {
+    font-size: 32px;
+    color: #293285;
+}
+.robot {
+    max-width: 100%;
+}
+.card-mensaje {
+    border: 1px solid gray;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(51, 152, 206, 0.419), 0 6px 20px rgba(51, 152, 206, 0.419);
+}
+.mensaje2 {
+    margin-top: 40px;
+    text-align: center;
+}
+.mensaje2 > h3 {
+    color: #293285;
+}
+.slide {
+    width: 100%;
+}
+.carousel-item img {
+    max-height: 60vh;
+    max-width: 100%;
+    object-fit: cover;
+}
+.carousel {
+    width: 100%;
+}
+.fotosSlide {
+    background-color: #E0EEFF;
+    backdrop-filter: blur(10px);
+    border: 1px solid gray;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(51, 152, 206, 0.419), 0 6px 20px rgba(51, 152, 206, 0.419);
+}
+
+/* Cambio de modo */
+.contenedor-minerva {
+    background-color: #660D04;
+}
+.contenedor-vr {
+    background-color: #123A6B;
+}
+.logo-fmo {
+    width: 110px;
+    height: 130px;
+}
+.logo-vr {
+    width: 260px;
+    height: 260px;
+}
+#submitButton {
+    background-color: #242525;
+}
+.Temas {
+    background-color: #660D04;
+    color: #fff;
+}
+.fondos {
+    background-color: white !important;
+    color: #1c1b1b;
+}
+.fondos .mensaje > h1 {
+    color: #1c1b1b !important;
+}
+.fondos .mensaje2 > h3 {
+    color: #1c1b1b !important;
+}
+.fondos .fotosSlide {
+    background-color: white;
+}
+.Temas .nav-item button:hover {
+    background-color: #911f12;
+}
+.Temas button:hover {
+    background-color: #911f12;
+}
+
